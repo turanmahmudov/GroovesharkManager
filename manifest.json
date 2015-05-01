@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.turan.mahmudov.musicdownloader",
+    "description": "Unofficial Grooveshark Client",
+    "architecture": "all",
+    "title": "Grooveshark Manager",
+    "hooks": {
+        "GroovesharkManager": {
+            "apparmor": "GroovesharkManager.apparmor",
+            "desktop": "GroovesharkManager.desktop"
+        }
+    },
+    "version": "4.5.5",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

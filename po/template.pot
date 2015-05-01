@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-27 12:24+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Main.qml:37 Main.qml:831 components/Search.qml:39
+msgid "Search"
+msgstr ""
+
+#: Main.qml:45 Main.qml:901
+msgid "Profile"
+msgstr ""
+
+#: Main.qml:45 Main.qml:888
+msgid "Sign in"
+msgstr ""
+
+#: Main.qml:60 Main.qml:914
+msgid "Collection"
+msgstr ""
+
+#: Main.qml:71 Main.qml:927
+msgid "Favorites"
+msgstr ""
+
+#: Main.qml:82 Main.qml:940
+msgid "Playlists"
+msgstr ""
+
+#: Main.qml:93
+msgid "Sign out"
+msgstr ""
+
+#: Main.qml:221
+msgid "You need to sign in to perform this action."
+msgstr ""
+
+#: Main.qml:224 Main.qml:242 Main.qml:280
+msgid "Close"
+msgstr ""
+
+#: Main.qml:239
+msgid "An error occured"
+msgstr ""
+
+#: Main.qml:314 Main.qml:374
+msgid "Create playlist"
+msgstr ""
+
+#: Main.qml:391
+msgid "Name:"
+msgstr ""
+
+#: Main.qml:405
+msgid "Description:"
+msgstr ""
+
+#: Main.qml:418
+msgid "Cancel"
+msgstr ""
+
+#: Main.qml:425
+msgid "Create"
+msgstr ""
+
+#: Main.qml:545 Main.qml:966
+msgid "Now playing"
+msgstr ""
+
+#: Main.qml:562 Main.qml:584 Main.qml:605 Main.qml:986
+msgid "Queue"
+msgstr ""
+
+#: Main.qml:778
+msgid "Popular"
+msgstr ""
+
+#: Main.qml:799
+msgid "Broadcasts"
+msgstr ""
+
+#: Main.qml:814
+msgid "About"
+msgstr ""
+
+#: Main.qml:843
+msgid "Search results"
+msgstr ""
+
+#: Main.qml:953
+msgid "Playlist"
+msgstr ""
+
+#: components/Favorites.qml:604
+msgid "<b>You have not favorited any songs.</b>"
+msgstr ""
+
+#: components/Account.qml:64
+msgid "Recent listens"
+msgstr ""
+
+#: components/Collections.qml:604
+msgid "<b>You have not collected any songs.</b>"
+msgstr ""
+
+#: components/Playlist.qml:611
+msgid "<b>Add songs to your playlist</b>"
+msgstr ""
+
+#: components/Playlist.qml:617
+msgid "A full playlist is much more fun."
+msgstr ""
+
+#: components/Playlists.qml:134
+msgid "<b>Playlists are awesome</b>"
+msgstr ""
+
+#: components/Playlists.qml:140
+msgid "You should make one, and share it with your friends."
+msgstr ""
+
+#: components/Walkthrough/Slide6.qml:56
+msgid "Download"
+msgstr ""
+
+#: components/Walkthrough/Slide6.qml:70
+msgid ""
+"Download Grooveshark songs to your phone and play on your favorite music "
+"player any time you want."
+msgstr ""
+
+#: components/Walkthrough/Slide6.qml:84
+msgid "Start"
+msgstr ""
+
+#: components/Walkthrough/Slide4.qml:56
+msgid "Build Playlists"
+msgstr ""
+
+#: components/Walkthrough/Slide4.qml:70
+msgid ""
+"Make playlists on the go. Put together the perfect playlist for any "
+"situation right from your phone."
+msgstr ""
+
+#: components/Walkthrough/Slide3.qml:56
+msgid "Find Favorites"
+msgstr ""
+
+#: components/Walkthrough/Slide3.qml:70
+msgid ""
+"Adding songs to your Favorites builds a quick-list of just the tunes you "
+"love the most."
+msgstr ""
+
+#: components/Walkthrough/Slide5.qml:56
+msgid "Broadcast"
+msgstr ""
+
+#: components/Walkthrough/Slide5.qml:70
+msgid "Broadcast is much more than another playlist app."
+msgstr ""
+
+#: components/Walkthrough/Walkthrough.qml:67
+msgid "Skip"
+msgstr ""
+
+#: components/Walkthrough/Slide1.qml:59
+msgid "Grooveshark Manager"
+msgstr ""
+
+#: components/Walkthrough/Slide1.qml:74
+msgid "Take a tour or skip to browse now."
+msgstr ""
+
+#: components/Walkthrough/Slide2.qml:56
+msgid "Search and Play"
+msgstr ""
+
+#: components/Walkthrough/Slide2.qml:70
+msgid ""
+"Search for any song or artist and play just the songs you want. It's all up "
+"to you."
+msgstr ""
+
+#: components/About.qml:69
+msgid "Version "
+msgstr ""
+
+#: components/About.qml:85
+msgid "Released under the terms of the GNU GPL v3"
+msgstr ""
+
+#: components/About.qml:111
+msgid "The app is <b>not</b> provided by Grooveshark."
+msgstr ""
+
+#: components/About.qml:130
+msgid "Buy <b>Grooveshark Manager Support</b> to donate me."
+msgstr ""

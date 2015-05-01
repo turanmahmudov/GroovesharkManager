@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Grooveshark Manager
+Exec=qmlscene $@ Main.qml
+Icon=grooveshark.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff
+
